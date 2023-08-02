@@ -19,7 +19,7 @@ TThe wine industry constantly seeks ways to improve wine quality and cater to di
 
 Developing a machine learning model for wine quality prediction is essential due to the following reasons:
 
-a) Objective Quality Assessment: Traditional wine quality assessment methods heavily rely on subjective sensory evaluations by experts. By leveraging machine learning, we can achieve an objective and standardized evaluation process, eliminating potential biases and inconsistencies.
+a) Quality Assessment: Traditional wine quality assessment methods heavily rely on subjective sensory evaluations by experts. By leveraging machine learning, we can achieve an objective and standardized evaluation process, eliminating potential biases and inconsistencies.
 
 b) Data-Driven Decision Making: A predictive model will enable winemakers to make data-driven decisions based on physicochemical attributes. This empowers them to optimize the winemaking process and improve wine quality with evidence-backed insights.
 
@@ -35,15 +35,7 @@ g) Advancement of Wine Research: The data generated and insights obtained during
 
 h) Generalization to Other Applications: The techniques and knowledge gained from this project can be applied to similar problems in other industries. Predicting quality based on attributes is a common challenge in various domains, such as food and beverage production, agriculture, and product quality control.
 
-Dataset Description:
-
-The dataset obtained from {} contains a comprehensive set of physicochemical attributes for a collection of wine samples. The features include fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, and an associated quality score for each wine sample.
-
-Methodology, Deliverables, Timeline, Team Composition, Impact, and Future Scope:
-(These sections can remain the same as mentioned in the previous proposal)
-
 By developing a machine learning-based wine quality prediction model, we aim to transform wine quality assessment, making it more efficient, objective, and driven by data-backed decisions. The model's potential impact spans from wineries to customers, fostering innovation, and advancement in the wine industry.
-
 
 
 # Methodology
@@ -120,7 +112,9 @@ Interpret and Communicate Results and Recommendations
 
 ##  f) Data Understanding
 
-The data used in this project,that has 6 columns and 1152 rows,was downloaded from [here](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset), c
+The data used in this project,that has 6 columns and 1152 rows,was downloaded from [here](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+The dataset obtained from  contains a comprehensive set of physicochemical attributes for a collection of wine samples. The features include fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, and an associated quality score for each wine sample.
+
 
 | Variable              | Description                                                                                             |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
