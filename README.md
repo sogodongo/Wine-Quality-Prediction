@@ -7,13 +7,13 @@ by Group 9
 ![image]()
 
 
-# Problem Statment
-
 # Overview
 
 TThe wine industry constantly seeks ways to improve wine quality and cater to diverse consumer preferences. In this project, we propose the development of a machine learning model to predict wine quality based on physicochemical attributes. This model will provide an objective, efficient, and cost-effective solution to assess and enhance wine quality based on  physicochemical attributes, thus revolutionizing the traditional methods of evaluation.
 
 
+
+## Problem Statement
 
 **Why Developing the Model is Essential**
 
